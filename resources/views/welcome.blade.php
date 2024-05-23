@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MultiChat</title>
+    <link rel="icon" href="{{ public_path('favicon.ico') }}" type="image/x-icon">
+    <meta name="description" content="Chat with random streamers on {{ config('app.name') }}">
+    <title>{{ config('app.name') }}</title>
     <!-- Styles -->
     @filamentStyles
     @filamentScripts

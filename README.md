@@ -22,7 +22,7 @@
 RandomChat is an experience designed to allow you to chat with random Twitch streamers
 
 <p align="center">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/randomtwitchchat/website/Build">
+<!--   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/randomtwitchchat/website/Build"> -->
   <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/randomtwitchchat/website?label=version">
   <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/randomtwitchchat/website">
   <img alt="GitHub" src="https://img.shields.io/github/license/randomtwitchchat/website">

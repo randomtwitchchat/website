@@ -71,7 +71,9 @@ class SendTwitchMessage extends Component
             ]);
 
             if ($response->successful()) {
-               // success
+                if(config('app.env') == "local"){
+                    Log::debug($response);
+                }
             } else {
                 // fail
                 Log::debug($response);
